@@ -47,4 +47,4 @@ Zechuan Shi [@rootze](https://github.com/rootze) created analysis documents that
 
 Getting help
 ------------
-In case of any issues/questions/comments, please check out the [Issues](https://github.com/swaruplabUCI/Phenotyping_Bin1K358R_in_5xFAD_mice_model_2023/issues). Otherwise, please write an issue for any questions [here](https://github.com/swaruplabUCI/Phenotyping_Bin1K358R_in_5xFAD_mice_model_2023/issues.
+In case of any issues/questions/comments, please check out the [Issues](https://github.com/swaruplabUCI/Phenotyping_Bin1K358R_in_5xFAD_mice_model_2023/issues). Otherwise, please write an issue for any questions [here](https://github.com/swaruplabUCI/Phenotyping_Bin1K358R_in_5xFAD_mice_model_2023/issues).
