@@ -22,7 +22,7 @@ Dr. Laura Fernandez from Green lab at UCI
 
 Zechuan Shi [@rootze](https://github.com/rootze) from Swarup lab at UCI
 
-Samuel Morabito [@rootze](https://github.com/smorabit) from Swarup lab at UCI
+Samuel Morabito [@smorabit](https://github.com/smorabit) from Swarup lab at UCI
 
 Dr. Sudeshna Das from Swarup lab at UCI
 
@@ -37,8 +37,8 @@ Zechuan Shi [@rootze](https://github.com/rootze) created analysis documents that
 - Python v3.10.6
 
 **Tools_Software**:
-- Cellranger (v 7.0.0)
-- DoubletDetection (v4.2)
+- Cellranger (v7.0.0)
+- CellBender (v0.2.1)
 - Seurat (v4.2.0)
 
 **Reference dataset**:
