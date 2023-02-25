@@ -45,7 +45,7 @@ Zechuan Shi [@rootze](https://github.com/rootze) created analysis documents that
 - hdWGCNA (v0.1.1)
 - NeuronChat (v1.0.0)
 - CellChat (v1.5.0)
-_ ComplexHeatmap (v2.13.1)
+- ComplexHeatmap (v2.13.1)
 
 
 **Reference dataset**:
