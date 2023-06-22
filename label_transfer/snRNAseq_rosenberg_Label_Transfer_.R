@@ -134,7 +134,6 @@ table(NucSeq$predictedcelltype)
 # NOTE skip here
 #=================================================
 
-# NucSeq$predictedcelltype[NucSeq$Celltypes == 'Excitatory_Neuron' & NucSeq$predictedcelltype == 'Unresolved'] <- 'CTX EX'
 
 p <- DimPlot(NucSeq, reduction = "umap", group.by = "predictedcelltype", label = TRUE,
     label.size = 3, repel = TRUE) #+ NoLegend() #+ ggtitle("Query transferred labels")
@@ -152,8 +151,7 @@ p_nolabel
 dev.off()
 
 
-# NOTE Saving without c("Doublets", "Unknown")
-# NucSeq <- readRDS(paste0(out_dir, 'Data/', 'NucSeq_reprocessed_harmonized_Updated_0120_2023.rds'))
+# NOTE
 # saveRDS
 saveRDS(NucSeq, paste0(out_dir, 'Data/', 'NucSeq_reprocessed_harmonized_Updated_w_rosenberg_predictedcelltype_06212023.rds'))
 
@@ -172,9 +170,6 @@ DefaultAssay(seurat_obj) <- 'prediction.score.celltype'
 library(RColorBrewer)
 # need to load library(RColorBrewer) before Seurat
 # Or NOTE library(RColorBrewer)
-# Error in value[[3L]](cond) :
-#   Package ‘RColorBrewer’ version 1.1.2 cannot be unloaded:
-#  Error in unloadNamespace(package) : namespace ‘RColorBrewer’ is imported by ‘Seurat’ so cannot be unloaded
 colfunc <- colorRampPalette(c(rev(brewer.pal(9, 'Purples' )[2:9])))
 
 # prediction_matrix <- GetAssayData(seurat_obj, assay='predictions')
