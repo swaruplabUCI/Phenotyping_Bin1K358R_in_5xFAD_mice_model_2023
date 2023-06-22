@@ -51,7 +51,7 @@ Zechuan Shi [@rootze](https://github.com/rootze) created analysis documents that
 **Reference dataset**:
 - *Mouse reference dataset required for Cell Ranger*: md5sum: 886eeddde8731ffb58552d0bb81f533d ([refdata-gex-mm10-2020-A](https://support.10xgenomics.com/single-cell-gene-expression/software/downloads/latest))
 
-- *Celltypes label reference*: Mouse spinal cord SPLiT-seq data
+- *Celltypes label reference*: Mouse Brain SPLiT-seq data
 
   Rosenberg, Alexander B et al. “Single-cell profiling of the developing mouse brain and spinal cord with split-pool barcoding.” Science (New York, N.Y.) vol. 360,6385 (2018): 176-182. doi:10.1126/science.aam8999 ([Paper_Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7643870/))
 
