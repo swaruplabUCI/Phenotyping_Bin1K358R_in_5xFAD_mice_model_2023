@@ -41,8 +41,8 @@ umap_theme <- theme(
 ####################################
 ###=================================
 # NOTE loading PATH
-data_dir <- '/dfs7/swaruplab/zechuas/Collaborations/MODEL_AD/Bin1_5xFAD_snRNAseq_Nov2022/'
-out_dir <- '/dfs7/swaruplab/zechuas/Collaborations/MODEL_AD/Bin1_5xFAD_snRNAseq_Nov2022/Analysis/Subcluster_analysis/'
+data_dir <- '/Collaborations/MODEL_AD/Bin1_5xFAD_snRNAseq_Nov2022/'
+out_dir <- '/Collaborations/MODEL_AD/Bin1_5xFAD_snRNAseq_Nov2022/Analysis/Subcluster_analysis/'
 LT_fig_dir <- paste0(data_dir, 'Analysis/Label_transfer_Rosenberg_etal_2018/')
 #
 fig_dir <- paste0(data_dir, 'Figures/')
@@ -70,7 +70,7 @@ NucSeq$Genotype <- factor(
 library(dplyr)
 library(stringr)
 
-Park_NatureComm_markers <- read.csv("/dfs7/swaruplab/zechuas/Collaborations/MODEL_AD/Bin1_5xFAD_snRNAseq_Nov2022/Data/Park_NatureComm_2023_data/FromGitHub_mouse_cell_type_markers.csv")
+Park_NatureComm_markers <- read.csv("/Collaborations/MODEL_AD/Bin1_5xFAD_snRNAseq_Nov2022/Data/Park_NatureComm_2023_data/FromGitHub_mouse_cell_type_markers.csv")
 # Park_NatureComm_markers <- sapply(Park_NatureComm_markers[c("COP", "MFOL", "MOL1", "MOL2", "MOL3", "MOL4", "DAO")], tolower)
 Park_NatureComm_markers <- as.data.frame(Park_NatureComm_markers)
 

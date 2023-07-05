@@ -41,10 +41,10 @@ umap_theme <- theme(
 ####################################
 ###=================================
 # NOTE loading PATH
-loading_dir <- '/dfs7/swaruplab/zechuas/Collaborations/MODEL_AD/Bin1_5xFAD_snRNAseq_Nov2022/'
-subclusters_dir <- '/dfs7/swaruplab/zechuas/Collaborations/MODEL_AD/Bin1_5xFAD_snRNAseq_Nov2022/Analysis/Subcluster_analysis/'
+loading_dir <- '/Collaborations/MODEL_AD/Bin1_5xFAD_snRNAseq_Nov2022/'
+subclusters_dir <- '/Collaborations/MODEL_AD/Bin1_5xFAD_snRNAseq_Nov2022/Analysis/Subcluster_analysis/'
 # LT_fig_dir <- paste0(data_dir, 'Analysis/Label_transfer_Rosenberg_etal_2018/')
-out_dir <- '/dfs7/swaruplab/zechuas/Collaborations/MODEL_AD/Bin1_5xFAD_snRNAseq_Nov2022/Analysis/CellChat/'
+out_dir <- '/Collaborations/MODEL_AD/Bin1_5xFAD_snRNAseq_Nov2022/Analysis/CellChat/'
 
 # NOTE setting working directory
 setwd(out_dir)

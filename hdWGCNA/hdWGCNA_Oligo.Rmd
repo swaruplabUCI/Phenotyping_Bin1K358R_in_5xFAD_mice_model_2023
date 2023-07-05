@@ -29,7 +29,7 @@ set.seed(123456)
 
 library(hdWGCNA)
 
-setwd("/dfs7/swaruplab/zechuas/Collaborations/MODEL_AD/Bin1_5xFAD_snRNAseq_Nov2022/Analysis/hdWGCNA/ODC_COP/")
+setwd("/Collaborations/MODEL_AD/Bin1_5xFAD_snRNAseq_Nov2022/Analysis/hdWGCNA/ODC_COP/")
 data_dir <- 'data/'
 fig_dir <- 'figures/'
 
@@ -37,7 +37,7 @@ dir.create(data_dir)
 dir.create(fig_dir)
 
 
-seurat_PATH <- '/dfs7/swaruplab/zechuas/Collaborations/MODEL_AD/Bin1_5xFAD_snRNAseq_Nov2022/Analysis/Subcluster_analysis/'
+seurat_PATH <- '/Collaborations/MODEL_AD/Bin1_5xFAD_snRNAseq_Nov2022/Analysis/Subcluster_analysis/'
 seurat_obj <- readRDS(paste0(seurat_PATH, 'ODC_COP/', 'NucSeq_ODC_clusters_ODC_Status_Updates_06242023.rds'))
 
 
