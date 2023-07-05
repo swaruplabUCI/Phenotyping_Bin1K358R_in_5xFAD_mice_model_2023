@@ -51,11 +51,9 @@ Zechuan Shi [@rootze](https://github.com/rootze) created analysis documents that
 - *Mouse reference dataset required for Cell Ranger*: md5sum: 886eeddde8731ffb58552d0bb81f533d ([refdata-gex-mm10-2020-A](https://support.10xgenomics.com/single-cell-gene-expression/software/downloads/latest))
 
 - *Celltypes label reference*: Mouse brain SPLiT-seq data
-
   Rosenberg, A. B., Roco, C. M., Muscat, R. A., Kuchina, A., Sample, P., Yao, Z., Graybuck, L. T., Peeler, D. J., Mukherjee, S., Chen, W., Pun, S. H., Sellers, D. L., Tasic, B., & Seelig, G. (2018). Single-cell profiling of the developing mouse brain and spinal cord with split-pool barcoding. Science (New York, N.Y.), 360(6385), 176–182. ([Paper_Link](https://doi.org/10.1126/science.aam8999))
 
 - *Disease-associated oligodendrocytes*: Male AppNL-G-F and male 5xFAD AD mouse brains
-
   Park, H., Cho, B., Kim, H., Saito, T., Saido, T. C., Won, K. J., & Kim, J. (2023). Single-cell RNA-sequencing identifies disease-associated oligodendrocytes in male APP NL-G-F and 5XFAD mice. Nature communications, 14(1), 802. ([Paper_Link](https://doi.org/10.1038/s41467-023-36519-8))
 
 
