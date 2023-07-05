@@ -40,8 +40,7 @@ Zechuan Shi [@rootze](https://github.com/rootze) created analysis documents that
 - CellBender (v0.2.1)
 - Seurat (v4.2.0)
 - UCell (v1.3.0)
-- hdWGCNA (v0.1.1)
-- NeuronChat (v1.0.0)
+- hdWGCNA (v0.2.19)
 - CellChat (v1.5.0)
 - ComplexHeatmap (v2.13.1)
 
