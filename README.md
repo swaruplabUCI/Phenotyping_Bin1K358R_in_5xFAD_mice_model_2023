@@ -38,11 +38,11 @@ Zechuan Shi [@rootze](https://github.com/rootze) created analysis documents that
 **Tools_Software**:
 - Cellranger (v7.0.0)
 - CellBender (v0.2.1)
-- Seurat (v4.2.0)
-- UCell (v1.3.0)
+- Seurat (v4.3.0)
+- UCell (v2.2.0)
 - hdWGCNA (v0.2.19)
-- CellChat (v1.5.0)
-- ComplexHeatmap (v2.13.1)
+- CellChat (v1.6.1)
+- ComplexHeatmap (v2.14.0)
 
 
 **Reference dataset**:
