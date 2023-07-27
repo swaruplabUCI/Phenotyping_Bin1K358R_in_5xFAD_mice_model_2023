@@ -23,7 +23,6 @@ Dr. Laura Fernandez from Green lab at UCI
 
 Zechuan Shi [@rootze](https://github.com/rootze) from Swarup lab at UCI
 
-Dr. Sudeshna Das from Swarup lab at UCI -- Sequencing
 
 
 Software, Algorithms, and Resources
