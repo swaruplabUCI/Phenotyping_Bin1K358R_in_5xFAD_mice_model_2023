@@ -13,7 +13,7 @@ Genotype Group: 5xFAD_WT, BIN1HO, 5xFAD_HEMI, 5xFAD_HEMI-BIN1HO
 How to cite
 ------------
 
-
+Garcia-Agudo, L. F., Shi, Z., Smith, I. F., Kramár, E. A., Tran, K., Kawauchi, S., Wang, S., Collins, S., Walker, A., Shi, K. X., Neumann, J., Liang, H. Y., Da Cunha, C., Milinkeviciute, G., Morabito, S., Miyoshi, E., Rezaie, N., Gomez-Arboledas, A., Arvilla, A. M., Ghaemi, D. I., … Green, K. N. (2024). BIN1K358R suppresses glial response to plaques in mouse model of Alzheimer's disease. Alzheimer's & dementia : the journal of the Alzheimer's Association, 10.1002/alz.13767. Advance online publication. https://doi.org/10.1002/alz.13767
 
 
 Contributors
